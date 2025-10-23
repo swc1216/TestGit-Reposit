@@ -13,8 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+
     <Filter Include="26. 2easyeee">
       <UniqueIdentifier>{81a8e17c-1edd-471a-922f-fb90dd54b89c}</UniqueIdentifier>
+
+    <Filter Include="Jinny">
+      <UniqueIdentifier>{d29109fe-c43e-4931-8aac-62f8a521516d}</UniqueIdentifier>
+
     </Filter>
   </ItemGroup>
   <ItemGroup>
