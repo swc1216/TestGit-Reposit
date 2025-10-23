@@ -1,2 +1,17 @@
 역할 분담
-수아 - UI
+
+
+
+
+
+
+
+
+
+최예진
+- Main
+Monster
+GameObject
+Effect 
+- Sub
+Map tool
