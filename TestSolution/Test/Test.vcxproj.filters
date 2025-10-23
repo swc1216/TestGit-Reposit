@@ -16,6 +16,9 @@
     <Filter Include="26. 2easyeee">
       <UniqueIdentifier>{81a8e17c-1edd-471a-922f-fb90dd54b89c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sua">
+      <UniqueIdentifier>{7e574d1f-9917-4384-b607-fbe77426bd7d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -30,10 +33,16 @@
     <ClInclude Include="Test.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Sua.h">
+      <Filter>소스 파일\Sua</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Test.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CSua.cpp">
+      <Filter>소스 파일\Sua</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
